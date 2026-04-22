@@ -9,9 +9,9 @@
 | Dataset ID | `564433` |
 | Location | Huntington Beach |
 | Category | Restaurants |
-| Full dataset size | 511 records |
-| Free sample size | 51 records (9.98%) |
-| Last export | 2026-04-14T18:24:19.707483+00:00 |
+| Full dataset size | 510 records |
+| Free sample size | 51 records (10.0%) |
+| Last export | 2026-04-21T20:16:40.601360+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-huntington-beach-california-us-sample-564433/releases/download/sample-latest/beamstation_564433_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
