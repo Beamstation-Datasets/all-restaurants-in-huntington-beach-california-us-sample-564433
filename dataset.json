@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Detailed restaurant dataset for Huntington Beach, California with a population of over 198k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Huntington Beach, California, US",
-  "export_job_id": "2b3e7f98-da14-4859-9a45-05a643c9a991",
+  "export_job_id": "f64f35a8-3886-4215-a058-4da195355308",
   "github_org": "Beamstation-Datasets",
   "id_short": 564433,
   "location_name": "Huntington Beach",
   "location_type": "city",
   "repo_name": "all-restaurants-in-huntington-beach-california-us-sample-564433",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/564433/beamstation_564433_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.98,
+  "sample_pct": 10.0,
   "sample_records": 51,
-  "sample_sha256": "3aa0ec13ebad6bf4117c8f395a999c61c2dde0491a8bebf1e46ab9edcca99f0c",
-  "sample_size_bytes": 197293,
-  "total_records": 511,
-  "updated_at": "2026-04-14T18:24:19.707483+00:00"
+  "sample_sha256": "b3a250f15999a01843df334e7a3b5da766ce3fac9fc107f4d6aa1a996baf1649",
+  "sample_size_bytes": 193958,
+  "total_records": 510,
+  "updated_at": "2026-04-21T20:16:40.601360+00:00"
 }
