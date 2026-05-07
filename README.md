@@ -1,6 +1,6 @@
 # All Restaurants in Huntington Beach, California, US
 
-> Free BeamStation sample export with 27 rows and masked direct-contact fields.
+> Free BeamStation sample export with 53 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `564433` |
 | Location | Huntington Beach |
 | Category | Restaurants |
-| Full dataset size | 274 records |
-| Free sample size | 27 records (9.85%) |
-| Last export | 2026-04-28T21:56:29.020717+00:00 |
+| Full dataset size | 537 records |
+| Free sample size | 53 records (9.87%) |
+| Last export | 2026-05-07T18:35:45.324950+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-huntington-beach-california-us-sample-564433/releases/download/sample-latest/beamstation_564433_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
