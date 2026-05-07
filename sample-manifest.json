@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b557c555-a955-4265-a0ad-5965923ecce0",
+  "export_job_id": "712fe80f-0704-4856-b0e4-285a37275d7b",
   "id_short": 564433,
-  "published_at": "2026-04-29T07:44:21Z",
+  "published_at": "2026-05-07T19:13:38Z",
   "repo_name": "all-restaurants-in-huntington-beach-california-us-sample-564433",
   "sample_asset_name": "beamstation_564433_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/564433/beamstation_564433_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 27,
-  "sample_sha256": "3dfd3dfdc5fb267292a711a8078c6f2d951d44cfdc1f5d5b9688b3214ba77c26",
-  "sample_size_bytes": 92075,
-  "total_records": 274
+  "sample_records": 53,
+  "sample_sha256": "810053c23e3ca20c9fa727db09f6e5a7f54f8ef15c18194dbb2fc19f6fe9e544",
+  "sample_size_bytes": 210275,
+  "total_records": 537
 }
